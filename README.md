@@ -18,7 +18,7 @@ Como sabemos, as portas da Raspiberry Pi 3B+ não possuem suporte ao analógico,
 
 O circuito usado pode ser visto abaixo:
 
-![alt text](https://github.com/LucasRorisCube/ComunicacaoArduinoRaspberry/blob/main/Images/print_neofetch.png?raw=true)
+![alt text](https://github.com/LucasRorisCube/ComunicacaoArduinoRaspberry/blob/main/Images/circuito.jpeg?raw=true)
 
 Foi necessário um componente abaixo para converter a tensão de 3.3V da Raspiberry para 5V do arduino, chamado Level-Shifter.
 
